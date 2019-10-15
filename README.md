@@ -25,4 +25,4 @@
   The Dataset was split into Train and Test Dataset with 80% of data being used for Training and 20% of data for testing.
   Metric used for model evaluation is Accuracy.
 
-**If the jupyter file doesn't render here, go to [this](https://nbviewer.jupyter.org/) and paste the file link. It will render**
+**NOTE : If the jupyter file doesn't render here, go to [this](https://nbviewer.jupyter.org/) and paste the file link.**
